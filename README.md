@@ -1,3 +1,5 @@
+<img src="demo/demo.gif" alt="demo screencast" align="right">
+
 ## ghost-markdown
 
 markdown editor on an local html page. By using
